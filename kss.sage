@@ -3,7 +3,7 @@
 # M.Scott February 2018
 
 # set K value here
-K=72
+K=12
 # set CM discriminant, must be 1 or 3
 D=3
 
